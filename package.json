@@ -1,0 +1,21 @@
+{
+  "name": "kss-brunch-seed",
+  "version": "0.0.1",
+  "description": "Brunch skeleton to jumpstart living styleguide development with kss-node.",
+  "author": "Fabian Keller <contact@fabian-keller.de>",
+  "homepage": "https://github.com/FaKeller/kss-brunch-seed",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FaKeller/kss-brunch-seed.git"
+  },
+  "dependencies": {
+    "bourbon": "^4.3.3"
+  },
+  "devDependencies": {
+    "browser-sync-brunch": "^0.0.9",
+    "brunch": "^2.10.8",
+    "kssbrunch": "^0.0.5",
+    "sass-brunch": "^2.10.4"
+  }
+}
