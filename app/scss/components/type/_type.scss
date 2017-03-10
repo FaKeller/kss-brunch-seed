@@ -69,7 +69,8 @@ Alignment
 
 Easily realign text to components with text alignment classes.
 
-Deprecated: These controls are too fine granular. Please use a more abstract element to control text flow. This feature will be removed soon.
+> # Note:
+> These controls are too fine granular. Please use a more abstract element to control text flow, if possible.
 
 Markup:
 <div class="{{modifier_class}}">Lorem ipsum dolor sit amet.</div>
