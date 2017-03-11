@@ -9,6 +9,10 @@
     "type": "git",
     "url": "https://github.com/FaKeller/kss-brunch-seed.git"
   },
+  "scripts": {
+    "start": "brunch watch",
+    "build": "brunch build --production"
+  },
   "dependencies": {
     "bourbon": "^4.3.3"
   },
